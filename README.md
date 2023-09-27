@@ -6,7 +6,7 @@ I'm a Software Developer from <span><a href="https://www.akead.com/">Akead Softw
  <img style="width:1rem; hight:.5rem " src="https://media.licdn.com/dms/image/C4D0BAQGNiZpNx4jCzg/company-logo_200_200/0/1658134437524?e=1691625600&v=beta&t=7yLYjpC7y3U5sZ0C825-jPfd8BRnfQoaTfJq9FoHfEo" >
 </h2>
 <br>
-🌱 I’m currently learning NodeJS <br>💬 Ask me about React + Spring Boot<br>
+🌱 I’m currently learning Docker <br>💬 Ask me about React + Spring Boot + Nest.js<br>
 
 ## 🌐 Socials:
 
