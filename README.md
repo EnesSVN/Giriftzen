@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Seven Enes 👋
+# 💫 Hi there, I'm Enes SEVEN 👋
 
 <h2 style="text-align: center; display:flex justify-content: center;
     align-items: center; " >
